@@ -4,6 +4,7 @@
 ## 1. Web sites
 
 * [Spatial toughts](https://spatialthoughts.com/): courses, learning path and more
+* [GISGeography](https://gisgeography.com/): GIS + AI and more resources
 
 ## 2. Courses
 
