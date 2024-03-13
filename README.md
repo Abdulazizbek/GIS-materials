@@ -5,6 +5,7 @@
 
 * [Spatial toughts](https://spatialthoughts.com/): courses, learning path and more
 * [GISGeography](https://gisgeography.com/): GIS + AI and more resources
+* [Yohaniddawela](https://yohaniddawela.substack.com/): Yohan’s Newsletter
 
 ## 2. Courses
 
